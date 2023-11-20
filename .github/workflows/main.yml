@@ -31,6 +31,7 @@ jobs:
 
     - name: 生成静态文件
       run: |
+        export HEXO_ALGOLIA_INDEXING_KEY=${{ secrets.HEXO_ALGOLIA_INDEXING_KEY }}
         hexo clean
         hexo generate
         hexo algolia --flush true --layouts post

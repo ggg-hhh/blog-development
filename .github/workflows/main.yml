@@ -39,7 +39,7 @@ jobs:
     - name: 部署到Github
       uses: JamesIves/github-pages-deploy-action@v4
       env:
-        GITHUB_TOKEN: ${{ secrets.BLOG_DEVELOPMENT }}
+        GITHUB_TOKEN: ${{ secrets.BLOG_REPO }}
       with:
         token: ${{ secrets.GITHUB_TOKEN }}
         repository-name: ggg-hhh/blog

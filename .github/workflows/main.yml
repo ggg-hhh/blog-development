@@ -42,7 +42,7 @@ jobs:
         GITHUB_TOKEN: ${{ secrets.BLOG_REPO }}
       with:
         token: ${{ secrets.BLOG_REPO }}
-        repository-name: ggg-hhh/blog
+        repository-name: GWhim/blog
         branch: master
         folder: public
         commit-message: "${{ github.event.head_commit.message }} Updated By Github Actions"

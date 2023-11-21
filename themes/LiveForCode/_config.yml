@@ -207,14 +207,14 @@ MenuLink:
   -
     name: "知乎"
     icon: "icon-zhihu"
-    href: "https://zhihu.com/people/worstone-29"
+    href: "https://www.zhihu.com/people/gwhim"
     class: ""
     target: "_blank"
     image: ""
   -
     name: "微博"
     icon: "icon-weibo"
-    href: "https://weibo.com/u/5749847477"
+    href: "https://weibo.com/u/6853037346"
     class: ""
     target: "_blank"
     image: ""

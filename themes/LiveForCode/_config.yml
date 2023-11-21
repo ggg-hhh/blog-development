@@ -235,7 +235,7 @@ MenuLink:
   -
     name: "GitHub"
     icon: "icon-github"
-    href: "https://github.com/first19326"
+    href: "https://github.com/GWhim"
     class: ""
     target: "_blank"
     image: ""
@@ -455,5 +455,5 @@ Suffix:
 
 # ---- 主题信息配置 ----
 Theme: 
-  url: "https://github.com/first19326/Hexo-LiveForCode"
+  url: "https://github.com/GWhim/Hexo-LiveForCode"
   name: "Hexo -LiveForCode"

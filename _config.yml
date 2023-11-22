@@ -97,7 +97,6 @@ ignore:
 
 # Extensions
 Plugins: 
-  hexo-generator-cname
   hexo-abbrlink
   hexo-algolia
   hexo-generator-feed

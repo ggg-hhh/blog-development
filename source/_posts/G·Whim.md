@@ -1,10 +1,9 @@
 ---
 title: 建站之初
-comments: true
 donate: true
 tags: Hexo
 categories: Web
-description: 建站之初
+description: 建站-引子
 sticky: 10000
 abbrlink: gwh1blog
 date: 2023-11-21 00:00:00

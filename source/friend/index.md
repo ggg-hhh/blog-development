@@ -17,29 +17,19 @@ friends  :
         url     : https://hexo.io/zh-cn/
         about   : 简洁、高效的博客框架
       - 
-        name    : BNDong
-        avatar  : /image/friend/bndong.gif
-        url     : https://blog.dbnuo.com/
-        about   : SimpleMemory 作者
-      - 
-        name    : IIssNan
-        avatar  : /image/friend/iissnan.jpg
-        url     : https://notes.iissnan.com/
-        about   : Hexo-NexT 作者
-      - 
-        name    : Volantis
-        avatar  : /image/friend/volantis.png
-        url     : https://volantis.js.org/
-        about   : Hexo-Volantis 主题
+        name    : WorstOne
+        avatar  : /image/friend/worstone.jpg
+        url     : https://notes.worstone.cn/
+        about   : Live For Freedom 作者
   - 
     head        : 友情链接
     description : 
     friend      :
       - 
-        name    : WorstOne
+        name    : GWhim
         avatar  : /image/sidebar/avatar.jpg
-        url     : https://notes.worstone.cn
-        about   : Live For Freedom 作者
+        url     : https://www.blog.gwhim.cn/
+        about   : G·Whim 作者
 ---
 > 欢迎各位朋友前来交换友链，本站友链接受以下类型的网站：
 > - 个人博客

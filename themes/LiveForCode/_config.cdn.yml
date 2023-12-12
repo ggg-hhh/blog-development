@@ -1,34 +1,34 @@
 # ---- GitHub文件源配置 ----
 # GitHub用户名(不是昵称), 注意大小写
-GitHubUserName: "first19326"
+GitHubUserName: "GWhim"
 # GitHub主题仓库名称
-GitHubRepositories: "Hexo-LiveForCode"
+GitHubRepositories: "blog"
 
 
 # ---- 基础信息配置 ----
 # 博主名称, 文章后缀和主页图片上都会使用此名称
 User: "G·Whim"
 # 用户头像URL
-UserAvatar: "https://cdn.jsdelivr.net/gh/first19326/cdn@master/static/image/sidebar/avatar.jpg"
+UserAvatar: "https://cdn.jsdelivr.net/gh/GWhim/blog@master/image/sidebar/avatar.jpg"
 # 创建时间
-WebsiteStartDate: "2020-01-01"
+WebsiteStartDate: "2023-11-20"
 # 个人主页URL
-Home: "https://worstone.cn"
+Home: "https://www.gwhim.cn"
 
 
 # ---- 网站配置 ----
 # 当前页失去焦点, 页面Title显示文字
-WebsiteTitleBlur: "(◍´꒳`◍) Hi, Live For Freedom"
+WebsiteTitleBlur: "(◍´꒳`◍) Hi, G-Whim"
 # 当前页失去焦点, 页面Title变化, 延时时间, 单位毫秒
 WebsiteTitleBlurTimeOut: 500
 # 当前页获取焦点, 页面Title显示文字, 显示后延时恢复原Title
-WebsiteTitleFocus: "(*´∇｀*) 欢迎回来!"
+WebsiteTitleFocus: "(*´∇｀*) welcome !"
 # 当前页获取焦点, 页面title变化, 延时时间, 单位毫秒
 WebsiteTitleFocusTimeOut: 1000
 # 网站图标
 WebsiteFavicon: 
-  light: "https://cdn.jsdelivr.net/gh/first19326/cdn@master/static/image/website/logo/logo.png"
-  dark: "https://cdn.jsdelivr.net/gh/first19326/cdn@master/static/image/website/logo/logo-dark.png"
+  light: "https://cdn.jsdelivr.net/gh/GWhim/blog@master/image/website/logo/logo.png"
+  dark: "https://cdn.jsdelivr.net/gh/GWhim/blog@master/image/website/logo/logo-dark.png"
 
 
 # ---- 进度条配置 ----
@@ -92,8 +92,8 @@ BackAnimation:
 # ---- 主页配置 ----
 # 主页图片URL, 推荐尺寸 >= 1920 * 1080, 支持多张, 每次刷新随机设置一张
 HomeHeaderImage: 
-  - "https://cdn.jsdelivr.net/gh/first19326/cdn@master/static/image/header/home.jpg"
-  - "https://cdn.jsdelivr.net/gh/first19326/cdn@master/static/image/header/home.jpeg"
+  - "https://cdn.jsdelivr.net/gh/GWhim/blog@master/image/header/home.jpg"
+  - "https://cdn.jsdelivr.net/gh/GWhim/blog@master/image/header/home.jpeg"
 # 主页头图上的标语, 设置此选项会固定显示文字, 默认为空, 自动获取一句
 HomeBannerText: ""
 
@@ -101,7 +101,7 @@ HomeBannerText: ""
 # ---- 文章详情页配置 ----
 # 文章详情页图片URL, 支持多张, 每次刷新随机设置一张
 ArticleHeaderImage: 
-  - "https://cdn.jsdelivr.net/gh/first19326/cdn@master/static/image/header/article.jpg"
+  - "https://cdn.jsdelivr.net/gh/GWhim/blog@master/image/header/article.jpg"
 
 
 # ---- 其他页面配置 ----
@@ -128,7 +128,7 @@ Error:
 # 菜单消息
 MenuNotice:
   enable: true
-  notice: "简单地活着，肆意而又精彩！"
+  notice: "保持热爱，奔赴山海！"
   speed: 20
 # 菜单列表
 MenuList:
@@ -224,14 +224,14 @@ MenuLink:
     href: "javascript:;"
     class: "image"
     target: "_self"
-    image: "https://cdn.jsdelivr.net/gh/first19326/cdn@master/static/image/sidebar/qq.png"
+    image: "https://cdn.jsdelivr.net/gh/GWhim/blog@master/image/sidebar/qq.png"
   -
     name: "微信"
     icon: "icon-wechat"
     href: "javascript:;"
-    class: ""
+    class: "image"
     target: "_self"
-    image: ""
+    image: "https://cdn.jsdelivr.net/gh/GWhim/blog@master/image/sidebar/wechat.png"
   -
     name: "GitHub"
     icon: "icon-github"
@@ -245,20 +245,17 @@ MenuLink:
 # 页脚样式
 FooterStyle: 2
 # 页脚标语
-BottomText: "<div><span class='face'>ღゝ◡╹)ノ♡</span></div><div>【人生若只如初见<span><i class='iconfont icon-like-fill'></i></span>何事秋风悲画扇】</div><div>&copy; 2020-2023 WorstOne. All Rights Reserved.</div>"
+BottomText: "<div><span class='face'>ღゝ◡╹)ノ♡</span></div><div>【无论身处何地<span><i class='iconfont icon-like-fill'></i></span>永远心血来潮】</div><div>&copy; 2023-2025 G·Whim. All Rights Reserved.</div>"
 
 
 # ---- 控制台输出 ----
 ConsoleList:
   -
-    - "Based on cnblogs theme SimpleMemory."
+    - "Based on theme LiveForCode."
     - ""
   -
-    - "SimpleMemory Author:"
-    - "BNDong"
-  -
-    - "Theme:"
-    - "LiveForCode"
+    - "LiveForCode Author:"
+    - "WorstOne"
 
 
 # ---- 字体图标扩展 ----
@@ -269,15 +266,15 @@ FontIconExtend: ""
 Donate: 
   paypal : ""
   bitcoin: ""
-  alipay : "https://cdn.jsdelivr.net/gh/first19326/cdn@master/static/image/donate/alipay.png"
-  wechat : "https://cdn.jsdelivr.net/gh/first19326/cdn@master/static/image/donate/wechat.png"
+  alipay : "https://cdn.jsdelivr.net/gh/GWhim/blog@master/image/donate/alipay.png"
+  wechat : "https://cdn.jsdelivr.net/gh/GWhim/blog@master/image/donate/wechat.png"
 
 
 # ---- Algolia配置 ----
 Search:
-  applicationID: "010C3EANT8"
-  apiKey: "c7abab9f11b79102b9aff7fe6d41447d"
-  indexName: "Notes"
+  applicationID: 'GFRD54JJKU'
+  apiKey: '51e8cb7ab5d83bc0c4165fb32b907018'
+  indexName: 'GWhim'
   hits:
     page: 10
   labels:
@@ -297,7 +294,7 @@ Valine:
   el: ".comments-content"
   appId: "srhKtvWPQTWYKh3qX8G8M7v0-gzGzoHsz"
   appKey: "8uVSP1q6UlALVC5igYfIfv2h"
-  # 国内版本 LeanCloud 可以不用设置
+  # 必须设置, 国内版本需域名备案
   serverURLs: 
   placeholder: "你是我一生只会遇见一次的惊喜..."
   avatar: "mm"
@@ -344,7 +341,7 @@ Tocbot:
 
 # ---- Require配置 ----
 Require:
-  baseUrl: "https://cdn.jsdelivr.net/gh/first19326/cdn@master/static/js/"
+  baseUrl: "https://cdn.jsdelivr.net/gh/GWhim/blog@master/js/"
   waitSeconds: 100
 
 
@@ -367,9 +364,9 @@ APlayer:
     -
       name: "Endless Tears"
       artist: "CLIFF EDGE"
-      cover: "https://cdn.jsdelivr.net/gh/first19326/cdn@master/static/music/cover/Endless Tears.jpg"
-      url: "https://cdn.jsdelivr.net/gh/first19326/cdn@master/static/music/song/Endless Tears.mp3"
-      lrc: "https://cdn.jsdelivr.net/gh/first19326/cdn@master/static/music/lrc/Endless Tears.lrc"
+      cover: "https://cdn.jsdelivr.net/gh/GWhim/blog@master/music/cover/Endless Tears.jpg"
+      url: "https://cdn.jsdelivr.net/gh/GWhim/blog@master/music/song/Endless Tears.mp3"
+      lrc: "https://cdn.jsdelivr.net/gh/GWhim/blog@master/music/lrc/Endless Tears.lrc"
 # Meting
 Meting:
   api: "https://api.i-meto.com/meting/api"
@@ -401,54 +398,54 @@ LazyLoad:
 
 # ---- Style配置 ----
 Style:
-  aplayer: "https://cdn.jsdelivr.net/gh/first19326/cdn@master/static/css/APlayer.min.css"
-  archive: "https://cdn.jsdelivr.net/gh/first19326/cdn@master/static/css/archive.min.css"
-  base: "https://cdn.jsdelivr.net/gh/first19326/cdn@master/static/css/base.min.css"
-  clipboard: "https://cdn.jsdelivr.net/gh/first19326/cdn@master/static/css/clipboard.min.css"
-  code: "https://cdn.jsdelivr.net/gh/first19326/cdn@master/static/css/code.min.css"
-  donate: "https://cdn.jsdelivr.net/gh/first19326/cdn@master/static/css/donate.min.css"
-  fancybox: "https://cdn.jsdelivr.net/gh/first19326/cdn@master/static/css/jquery.fancybox.min.css"
-  footer: "https://cdn.jsdelivr.net/gh/first19326/cdn@master/static/css/footer.min.css"
-  iconfont: "https://cdn.jsdelivr.net/gh/first19326/cdn@master/static/iconfont/iconfont.min.css"
-  index: "https://cdn.jsdelivr.net/gh/first19326/cdn@master/static/css/index.min.css"
-  menuBubble: "https://cdn.jsdelivr.net/gh/first19326/cdn@master/static/css/menu-bubble.min.css"
-  mouse: "https://cdn.jsdelivr.net/gh/first19326/cdn@master/static/css/mouse.min.css"
-  page: "https://cdn.jsdelivr.net/gh/first19326/cdn@master/static/css/page.min.css"
-  post: "https://cdn.jsdelivr.net/gh/first19326/cdn@master/static/css/post.min.css"
-  search: "https://cdn.jsdelivr.net/gh/first19326/cdn@master/static/css/search.min.css"
-  tocbot: "https://cdn.jsdelivr.net/gh/first19326/cdn@master/static/css/tocbot.min.css"
-  valine: "https://cdn.jsdelivr.net/gh/first19326/cdn@master/static/css/valine.min.css"
-  waline: "https://cdn.jsdelivr.net/gh/first19326/cdn@master/static/css/waline.css"
-  walineCustom: "https://cdn.jsdelivr.net/gh/first19326/cdn@master/static/css/waline-custom.css"
+  aplayer: "https://cdn.jsdelivr.net/gh/GWhim/blog@master/css/APlayer.min.css"
+  archive: "https://cdn.jsdelivr.net/gh/GWhim/blog@master/css/archive.min.css"
+  base: "https://cdn.jsdelivr.net/gh/GWhim/blog@master/css/base.min.css"
+  clipboard: "https://cdn.jsdelivr.net/gh/GWhim/blog@master/css/clipboard.min.css"
+  code: "https://cdn.jsdelivr.net/gh/GWhim/blog@master/css/code.min.css"
+  donate: "https://cdn.jsdelivr.net/gh/GWhim/blog@master/css/donate.min.css"
+  fancybox: "https://cdn.jsdelivr.net/gh/GWhim/blog@master/css/jquery.fancybox.min.css"
+  footer: "https://cdn.jsdelivr.net/gh/GWhim/blog@master/css/footer.min.css"
+  iconfont: "https://cdn.jsdelivr.net/gh/GWhim/blog@master/iconfont/iconfont.min.css"
+  index: "https://cdn.jsdelivr.net/gh/GWhim/blog@master/css/index.min.css"
+  menuBubble: "https://cdn.jsdelivr.net/gh/GWhim/blog@master/css/menu-bubble.min.css"
+  mouse: "https://cdn.jsdelivr.net/gh/GWhim/blog@master/css/mouse.min.css"
+  page: "https://cdn.jsdelivr.net/gh/GWhim/blog@master/css/page.min.css"
+  post: "https://cdn.jsdelivr.net/gh/GWhim/blog@master/css/post.min.css"
+  search: "https://cdn.jsdelivr.net/gh/GWhim/blog@master/css/search.min.css"
+  tocbot: "https://cdn.jsdelivr.net/gh/GWhim/blog@master/css/tocbot.min.css"
+  valine: "https://cdn.jsdelivr.net/gh/GWhim/blog@master/css/valine.min.css"
+  waline: "https://cdn.jsdelivr.net/gh/GWhim/blog@master/css/waline.css"
+  walineCustom: "https://cdn.jsdelivr.net/gh/GWhim/blog@master/css/waline-custom.css"
 
 # ---- Script配置 ----
 Script:
-  aplayer: "https://cdn.jsdelivr.net/gh/first19326/cdn@master/static/js/APlayer.min.js"
-  config: "https://cdn.jsdelivr.net/gh/first19326/cdn@master/static/js/require.config.min.js"
-  index: "https://cdn.jsdelivr.net/gh/first19326/cdn@master/static/js/index.min.js"
-  instantSearch: "https://cdn.jsdelivr.net/gh/first19326/cdn@master/static/js/instantsearch.min.js"
-  iscroll: "https://cdn.jsdelivr.net/gh/first19326/cdn@master/static/js/iscroll.min.js"
-  jQuery: "https://cdn.jsdelivr.net/gh/first19326/cdn@master/static/js/jquery-3.4.1.min.js"
-  loading: "https://cdn.jsdelivr.net/gh/first19326/cdn@master/static/js/loading.min.js"
-  meting: "https://cdn.jsdelivr.net/gh/first19326/cdn@master/static/js/Meting.min.js"
-  require: "https://cdn.jsdelivr.net/gh/first19326/cdn@master/static/js/require.min.js"
-  waline: "https://cdn.jsdelivr.net/gh/first19326/cdn@master/static/js/waline.mjs"
-  pageview: "https://cdn.jsdelivr.net/gh/first19326/cdn@master/static/js/pageview.mjs"
-  comment: "https://cdn.jsdelivr.net/gh/first19326/cdn@master/static/js/comment.mjs"
+  aplayer: "https://cdn.jsdelivr.net/gh/GWhim/blog@master/js/APlayer.min.js"
+  config: "https://cdn.jsdelivr.net/gh/GWhim/blog@master/js/require.config.min.js"
+  index: "https://cdn.jsdelivr.net/gh/GWhim/blog@master/js/index.min.js"
+  instantSearch: "https://cdn.jsdelivr.net/gh/GWhim/blog@master/js/instantsearch.min.js"
+  iscroll: "https://cdn.jsdelivr.net/gh/GWhim/blog@master/js/iscroll.min.js"
+  jQuery: "https://cdn.jsdelivr.net/gh/GWhim/blog@master/js/jquery-3.4.1.min.js"
+  loading: "https://cdn.jsdelivr.net/gh/GWhim/blog@master/js/loading.min.js"
+  meting: "https://cdn.jsdelivr.net/gh/GWhim/blog@master/js/Meting.min.js"
+  require: "https://cdn.jsdelivr.net/gh/GWhim/blog@master/js/require.min.js"
+  waline: "https://cdn.jsdelivr.net/gh/GWhim/blog@master/js/waline.mjs"
+  pageview: "https://cdn.jsdelivr.net/gh/GWhim/blog@master/js/pageview.mjs"
+  comment: "https://cdn.jsdelivr.net/gh/GWhim/blog@master/js/comment.mjs"
 
 
 # ---- Font配置 ----
 Font:
-  LongCang: "https://cdn.jsdelivr.net/gh/first19326/cdn@master/static/font/LongCang.min.css"
-  Monda: "https://cdn.jsdelivr.net/gh/first19326/cdn@master/static/font/Monda.min.css"
-  NotoSansSC: "https://cdn.jsdelivr.net/gh/first19326/cdn@master/static/font/NotoSansSC.min.css"
-  NotoSerifSC: "https://cdn.jsdelivr.net/gh/first19326/cdn@master/static/font/NotoSerifSC.min.css"
-  Playball: "https://cdn.jsdelivr.net/gh/first19326/cdn@master/static/font/Playball.min.css"
-  PTMono: "https://cdn.jsdelivr.net/gh/first19326/cdn@master/static/font/PTMono.min.css"
-  Roboto: "https://cdn.jsdelivr.net/gh/first19326/cdn@master/static/font/Roboto.min.css"
-  RobotoSlab: "https://cdn.jsdelivr.net/gh/first19326/cdn@master/static/font/RobotoSlab.min.css"
-  Rosario: "https://cdn.jsdelivr.net/gh/first19326/cdn@master/static/font/Rosario.min.css"
-  UbuntuMono: "https://cdn.jsdelivr.net/gh/first19326/cdn@master/static/font/UbuntuMono.min.css"
+  LongCang: "https://cdn.jsdelivr.net/gh/GWhim/blog@master/font/LongCang.min.css"
+  Monda: "https://cdn.jsdelivr.net/gh/GWhim/blog@master/font/Monda.min.css"
+  NotoSansSC: "https://cdn.jsdelivr.net/gh/GWhim/blog@master/font/NotoSansSC.min.css"
+  NotoSerifSC: "https://cdn.jsdelivr.net/gh/GWhim/blog@master/font/NotoSerifSC.min.css"
+  Playball: "https://cdn.jsdelivr.net/gh/GWhim/blog@master/font/Playball.min.css"
+  PTMono: "https://cdn.jsdelivr.net/gh/GWhim/blog@master/font/PTMono.min.css"
+  Roboto: "https://cdn.jsdelivr.net/gh/GWhim/blog@master/font/Roboto.min.css"
+  RobotoSlab: "https://cdn.jsdelivr.net/gh/GWhim/blog@master/font/RobotoSlab.min.css"
+  Rosario: "https://cdn.jsdelivr.net/gh/GWhim/blog@master/font/Rosario.min.css"
+  UbuntuMono: "https://cdn.jsdelivr.net/gh/GWhim/blog@master/font/UbuntuMono.min.css"
 
 
 # ---- 文章尾缀配置 ----

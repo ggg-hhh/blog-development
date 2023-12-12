@@ -1,7 +1,7 @@
 ---
 title: Hello World
 donate: true
-tags: 测试
+tags: 随笔
 categories: 随笔
 sticky: 10000
 date: 2023-11-20 00:00:00

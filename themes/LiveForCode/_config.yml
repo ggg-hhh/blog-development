@@ -1,8 +1,8 @@
 # ---- GitHub文件源配置 ----
 # GitHub用户名(不是昵称), 注意大小写
-GitHubUserName: "first19326"
+GitHubUserName: "GWhim"
 # GitHub主题仓库名称
-GitHubRepositories: "Hexo-LiveForCode"
+GitHubRepositories: "blog"
 
 
 # ---- 基础信息配置 ----
@@ -13,16 +13,16 @@ UserAvatar: "/image/sidebar/avatar.jpg"
 # 创建时间
 WebsiteStartDate: "2023-11-20"
 # 个人主页URL
-Home: "https://worstone.cn"
+Home: "https://www.gwhim.cn"
 
 
 # ---- 网站配置 ----
 # 当前页失去焦点, 页面Title显示文字
-WebsiteTitleBlur: "(◍´꒳`◍) Hi, Live For Freedom"
+WebsiteTitleBlur: "(◍´꒳`◍) Hi, G-Whim"
 # 当前页失去焦点, 页面Title变化, 延时时间, 单位毫秒
 WebsiteTitleBlurTimeOut: 500
 # 当前页获取焦点, 页面Title显示文字, 显示后延时恢复原Title
-WebsiteTitleFocus: "(*´∇｀*) 欢迎回来!"
+WebsiteTitleFocus: "(*´∇｀*) welcome !"
 # 当前页获取焦点, 页面title变化, 延时时间, 单位毫秒
 WebsiteTitleFocusTimeOut: 1000
 # 网站图标
@@ -229,9 +229,9 @@ MenuLink:
     name: "微信"
     icon: "icon-wechat"
     href: "javascript:;"
-    class: ""
+    class: "image"
     target: "_self"
-    image: ""
+    image: "/image/sidebar/wechat.png"
   -
     name: "GitHub"
     icon: "icon-github"
@@ -245,7 +245,7 @@ MenuLink:
 # 页脚样式
 FooterStyle: 2
 # 页脚标语
-BottomText: "<div><span class='face'>ღゝ◡╹)ノ♡</span></div><div>【无论身处何地<span><i class='iconfont icon-like-fill'></i></span>永远心血来潮】</div><div>&copy; 2023-2025 G·whim. All Rights Reserved.</div>"
+BottomText: "<div><span class='face'>ღゝ◡╹)ノ♡</span></div><div>【无论身处何地<span><i class='iconfont icon-like-fill'></i></span>永远心血来潮】</div><div>&copy; 2023-2025 G·Whim. All Rights Reserved.</div>"
 
 
 # ---- 控制台输出 ----

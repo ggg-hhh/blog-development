@@ -1,8 +1,10 @@
 ---
 title: 这只是一个开始
 donate: true
-tags: 随笔
-categories: 随笔
+tags:
+  - 随笔
+  - 引子
+categories: 建站之初
 description: 建站-这只是一个开始
 sticky: 10000
 date: 2023-11-21 00:00:00

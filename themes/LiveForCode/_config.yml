@@ -92,8 +92,8 @@ BackAnimation:
 # ---- 主页配置 ----
 # 主页图片URL, 推荐尺寸 >= 1920 * 1080, 支持多张, 每次刷新随机设置一张
 HomeHeaderImage: 
-   - "https://cdn.jsdelivr.net/gh/GWhim/blog@master/image/header/home.jpg"
-  - "https://cdn.jsdelivr.net/gh/GWhim/blog@master/image/header/home.jpeg"
+  - "/image/header/home.jpg"
+  - "/image/header/home.jpeg"
 # 主页头图上的标语, 设置此选项会固定显示文字, 默认为空, 自动获取一句
 HomeBannerText: ""
 

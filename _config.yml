@@ -116,8 +116,8 @@ feed:
   limit: 10
 
 algolia:
-  applicationID: 'GFRD54JJKU'
-  apiKey: '51e8cb7ab5d83bc0c4165fb32b907018'
+  applicationID: 'OFBCVB7EK0'
+  apiKey: 'ea0d2cc80552204c70c7d88e9ace8867'
   indexName: 'GWhim'
 
 # abbrlink config

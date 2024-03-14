@@ -46,7 +46,6 @@ suffix:
   author: 文章作者：
   from: 文章出处：
   about: 作者签名：
-  theme: 关于主题：
   copyright: 
     title: 版权声明：
     default: 文章除特别声明外，均采用 <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/" title="BY-NC-SA" target="_blank">BY-NC-SA</a> 许可协议，转载请注明出处
